@@ -28,7 +28,7 @@ Nahrajte změny na github.
 
 ## 2. krok: Modifikace a vytvoření pomocného souboru
 
-Modifikujte soubor `hlavni_skript.py`: Změňte text ve funkci pozdrav na 
+Modifikujte soubor `main.py`: Změňte text ve funkci pozdrav na 
 
 `"Ahoj, {jmeno}! Toto je verze 1.1 - upraveno."`
 
@@ -61,7 +61,7 @@ Stáhněte si změny z remote repozitáře.
 
 Rozhodli jste se, že soubor `seznam_studentu.txt` už není potřeba. Odstraňte soubor z repozitáře a pracovního adresáře (nápověda: na to je příkaz `git rm`).
 
-Modifikujte soubor `hlavni_skript.py`: Přidejte komentář na začátek souboru, např.: Python
+Modifikujte soubor `main.py`: Přidejte komentář na začátek souboru, např.: Python
 
 Vytvořte commit se zprávou: "Odstranění seznam_studentu.txt a finální úprava hlavního skriptu.".
 

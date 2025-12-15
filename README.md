@@ -73,3 +73,8 @@ Nyní mi do google classroom do komentáře našeho testu pošlete odkaz na vaš
 
 🏁 Dokončení cvičení
 Posledním krokem je poslání odkazu na váš repozitář, abych mohl/a zkontrolovat historii commitů a finální stav souborů.
+
+Tady je screenshot:
+![screenshot](https://github.com/user-attachments/assets/904fbcf9-c31d-4940-a57c-ac1fc3098bcd)
+
+
